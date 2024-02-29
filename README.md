@@ -1,4 +1,4 @@
-# Code Refactor - GWU Full Stack Bootcamp Challenge 1
+# Code Refactor - Horiseon SEO Optimization Challenge
 
 ## Description
 In this challenge, involves a very important aspect of web development: accessibility.  Also, we will be refactoring the code to make it more readable and replacing elements with semantic elements.
@@ -26,4 +26,9 @@ THEN they fall in sequential order
 
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+## Notes
+![Screenshot home page](./images/HoriseonHomepage.png)
+
+![Link to GitHub Repo](https://github.com/fhubert1/horiseon-seo-optimization)
 
