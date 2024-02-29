@@ -28,6 +28,8 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ## Notes
+![Link to page](https://fhubert1.github.io/horiseon-seo-optimization/)
+
 ![Screenshot home page](./images/HoriseonHomepage.png)
 
 ![Link to GitHub Repo](https://github.com/fhubert1/horiseon-seo-optimization)
